@@ -1,0 +1,15 @@
+11 2 6
+abracadabra
+12
+Q L
+Q R
+R
+Q L
+Q R
+S L R
+S R R
+Q L
+Q R
+R
+Q L
+Q R

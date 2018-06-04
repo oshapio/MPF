@@ -1,0 +1,4 @@
+﻿  algos.cpp
+c:\users\user\source\repos\algos\algos\algos.cpp(20): warning C4244: 'initializing': conversion from 'double' to 'll', possible loss of data
+c:\users\user\source\repos\algos\algos\algos.cpp(21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  algos.vcxproj -> C:\Users\user\source\repos\algos\Debug\algos.exe
