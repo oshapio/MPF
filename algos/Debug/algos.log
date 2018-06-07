@@ -1,4 +1,12 @@
 ﻿  algos.cpp
-c:\users\user\source\repos\algos\algos\algos.cpp(20): warning C4244: 'initializing': conversion from 'double' to 'll', possible loss of data
-c:\users\user\source\repos\algos\algos\algos.cpp(21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  algos.vcxproj -> C:\Users\user\source\repos\algos\Debug\algos.exe
+c:\users\a\documents\mpf\mpf\algos\algos.cpp(21): warning C4244: 'initializing': conversion from 'double' to 'll', possible loss of data
+c:\users\a\documents\mpf\mpf\algos\algos.cpp(22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\a\documents\mpf\mpf\algos\algos.cpp(285): warning C4018: '<': signed/unsigned mismatch
+c:\users\a\documents\mpf\mpf\algos\algos.cpp(286): warning C4018: '<': signed/unsigned mismatch
+c:\users\a\documents\mpf\mpf\algos\algos.cpp(291): warning C4018: '<': signed/unsigned mismatch
+c:\users\a\documents\mpf\mpf\algos\algos.cpp(292): warning C4018: '<': signed/unsigned mismatch
+c:\users\a\documents\mpf\mpf\algos\algos.cpp(293): warning C4018: '<': signed/unsigned mismatch
+c:\users\a\documents\mpf\mpf\algos\algos.cpp(294): warning C4018: '<': signed/unsigned mismatch
+c:\users\a\documents\mpf\mpf\algos\algos.cpp(324): warning C4018: '<': signed/unsigned mismatch
+c:\users\a\documents\mpf\mpf\algos\algos.cpp(325): warning C4018: '<': signed/unsigned mismatch
+  algos.vcxproj -> C:\Users\a\Documents\mpf\MPF\Debug\algos.exe
