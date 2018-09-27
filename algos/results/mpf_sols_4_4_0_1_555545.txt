@@ -1,0 +1,500 @@
+X_complex matrix: 
+[ 2i + 2 ], [ 2 + 2i  ], 
+[ 2 + 2i  ], [ 2i + 2 ], 
+
+
+Y_complex matrix: 
+[ 0i + 3 ], [ 1 + 0i  ], 
+[ 1 + 0i  ], [ 0i + 3 ], 
+
+
+Public param W: 
+[ 0, 4, 4, 0 ], [ 1, 3, 3, 1 ], 
+[ 1, 3, 2, 0 ], [ 0, 3, 6, 1 ], 
+
+
+req matrix: 
+[ 1, 3, 2, 0 ], [ 1, 4, 3, 0 ], 
+[ 0, 2, 3, 1 ], [ 0, 3, 4, 1 ], 
+
+
+#0 : 
+Ok X Matrix is: 
+[ 0 + 1i  ], [ 0 + 0i  ], 
+[ 0 + 0i  ], [ 0 + 1i  ], 
+
+
+Ok Y Matrix is: 
+[ 3 + 3i  ], [ 2 + 2i  ], 
+[ 2 + 2i  ], [ 3 + 3i  ], 
+
+
+
+#1 : 
+Ok X Matrix is: 
+[ 0 + 1i  ], [ 1 + 0i  ], 
+[ 1 + 0i  ], [ 0 + 1i  ], 
+
+
+Ok Y Matrix is: 
+[ 3 + 3i  ], [ 2 + 2i  ], 
+[ 2 + 2i  ], [ 3 + 3i  ], 
+
+
+
+#2 : 
+Ok X Matrix is: 
+[ 0 + 1i  ], [ 4 + 0i  ], 
+[ 4 + 0i  ], [ 0 + 1i  ], 
+
+
+Ok Y Matrix is: 
+[ 3 + 3i  ], [ 2 + 2i  ], 
+[ 2 + 2i  ], [ 3 + 3i  ], 
+
+
+
+#3 : 
+Ok X Matrix is: 
+[ 0 + 2i  ], [ 2 + 0i  ], 
+[ 2 + 0i  ], [ 0 + 2i  ], 
+
+
+Ok Y Matrix is: 
+[ 3 + 3i  ], [ 1 + 1i  ], 
+[ 1 + 1i  ], [ 3 + 3i  ], 
+
+
+
+#4 : 
+Ok X Matrix is: 
+[ 0 + 2i  ], [ 2 + 0i  ], 
+[ 2 + 0i  ], [ 0 + 2i  ], 
+
+
+Ok Y Matrix is: 
+[ 3 + 3i  ], [ 4 + 4i  ], 
+[ 4 + 4i  ], [ 3 + 3i  ], 
+
+
+
+#5 : 
+Ok X Matrix is: 
+[ 0 + 4i  ], [ 0 + 0i  ], 
+[ 0 + 0i  ], [ 0 + 4i  ], 
+
+
+Ok Y Matrix is: 
+[ 3 + 3i  ], [ 2 + 2i  ], 
+[ 2 + 2i  ], [ 3 + 3i  ], 
+
+
+
+#6 : 
+Ok X Matrix is: 
+[ 0 + 4i  ], [ 1 + 0i  ], 
+[ 1 + 0i  ], [ 0 + 4i  ], 
+
+
+Ok Y Matrix is: 
+[ 3 + 3i  ], [ 2 + 2i  ], 
+[ 2 + 2i  ], [ 3 + 3i  ], 
+
+
+
+#7 : 
+Ok X Matrix is: 
+[ 0 + 4i  ], [ 4 + 0i  ], 
+[ 4 + 0i  ], [ 0 + 4i  ], 
+
+
+Ok Y Matrix is: 
+[ 3 + 3i  ], [ 2 + 2i  ], 
+[ 2 + 2i  ], [ 3 + 3i  ], 
+
+
+
+#8 : 
+Ok X Matrix is: 
+[ 1 + 1i  ], [ 1i + 1 ], 
+[ 1i + 1 ], [ 1 + 1i  ], 
+
+
+Ok Y Matrix is: 
+[ 0 + 3i  ], [ 0 + 2i  ], 
+[ 0 + 2i  ], [ 0 + 3i  ], 
+
+
+
+#9 : 
+Ok X Matrix is: 
+[ 1 + 1i  ], [ 4i + 4 ], 
+[ 4i + 4 ], [ 1 + 1i  ], 
+
+
+Ok Y Matrix is: 
+[ 0 + 3i  ], [ 0 + 2i  ], 
+[ 0 + 2i  ], [ 0 + 3i  ], 
+
+
+
+#10 : 
+Ok X Matrix is: 
+[ 1i + 1 ], [ 1 + 1i  ], 
+[ 1 + 1i  ], [ 1i + 1 ], 
+
+
+Ok Y Matrix is: 
+[ 3 + 0i  ], [ 2 + 0i  ], 
+[ 2 + 0i  ], [ 3 + 0i  ], 
+
+
+
+#11 : 
+Ok X Matrix is: 
+[ 1i + 1 ], [ 1 + 1i  ], 
+[ 1 + 1i  ], [ 1i + 1 ], 
+
+
+Ok Y Matrix is: 
+[ 3 + 0i  ], [ 0i + 2 ], 
+[ 0i + 2 ], [ 3 + 0i  ], 
+
+
+
+#12 : 
+Ok X Matrix is: 
+[ 1i + 1 ], [ 4 + 4i  ], 
+[ 4 + 4i  ], [ 1i + 1 ], 
+
+
+Ok Y Matrix is: 
+[ 3 + 0i  ], [ 2 + 0i  ], 
+[ 2 + 0i  ], [ 3 + 0i  ], 
+
+
+
+#13 : 
+Ok X Matrix is: 
+[ 1i + 1 ], [ 4 + 4i  ], 
+[ 4 + 4i  ], [ 1i + 1 ], 
+
+
+Ok Y Matrix is: 
+[ 3 + 0i  ], [ 0i + 2 ], 
+[ 0i + 2 ], [ 3 + 0i  ], 
+
+
+
+#14 : 
+Ok X Matrix is: 
+[ 1i + 1 ], [ 1 + 1i  ], 
+[ 1 + 1i  ], [ 1i + 1 ], 
+
+
+Ok Y Matrix is: 
+[ 0i + 3 ], [ 2 + 0i  ], 
+[ 2 + 0i  ], [ 0i + 3 ], 
+
+
+
+#15 : 
+Ok X Matrix is: 
+[ 1i + 1 ], [ 1 + 1i  ], 
+[ 1 + 1i  ], [ 1i + 1 ], 
+
+
+Ok Y Matrix is: 
+[ 0i + 3 ], [ 0i + 2 ], 
+[ 0i + 2 ], [ 0i + 3 ], 
+
+
+
+#16 : 
+Ok X Matrix is: 
+[ 1i + 1 ], [ 4 + 4i  ], 
+[ 4 + 4i  ], [ 1i + 1 ], 
+
+
+Ok Y Matrix is: 
+[ 0i + 3 ], [ 2 + 0i  ], 
+[ 2 + 0i  ], [ 0i + 3 ], 
+
+
+
+#17 : 
+Ok X Matrix is: 
+[ 1i + 1 ], [ 4 + 4i  ], 
+[ 4 + 4i  ], [ 1i + 1 ], 
+
+
+Ok Y Matrix is: 
+[ 0i + 3 ], [ 0i + 2 ], 
+[ 0i + 2 ], [ 0i + 3 ], 
+
+
+
+#18 : 
+Ok X Matrix is: 
+[ 2 + 2i  ], [ 2i + 2 ], 
+[ 2i + 2 ], [ 2 + 2i  ], 
+
+
+Ok Y Matrix is: 
+[ 0 + 3i  ], [ 0 + 1i  ], 
+[ 0 + 1i  ], [ 0 + 3i  ], 
+
+
+
+#19 : 
+Ok X Matrix is: 
+[ 2 + 2i  ], [ 2i + 2 ], 
+[ 2i + 2 ], [ 2 + 2i  ], 
+
+
+Ok Y Matrix is: 
+[ 0 + 3i  ], [ 0 + 4i  ], 
+[ 0 + 4i  ], [ 0 + 3i  ], 
+
+
+
+#20 : 
+Ok X Matrix is: 
+[ 2i + 2 ], [ 2 + 2i  ], 
+[ 2 + 2i  ], [ 2i + 2 ], 
+
+
+Ok Y Matrix is: 
+[ 3 + 0i  ], [ 0 + 0i  ], 
+[ 0 + 0i  ], [ 3 + 0i  ], 
+
+
+
+#21 : 
+Ok X Matrix is: 
+[ 2i + 2 ], [ 2 + 2i  ], 
+[ 2 + 2i  ], [ 2i + 2 ], 
+
+
+Ok Y Matrix is: 
+[ 3 + 0i  ], [ 1 + 0i  ], 
+[ 1 + 0i  ], [ 3 + 0i  ], 
+
+
+
+#22 : 
+Ok X Matrix is: 
+[ 2i + 2 ], [ 2 + 2i  ], 
+[ 2 + 2i  ], [ 2i + 2 ], 
+
+
+Ok Y Matrix is: 
+[ 3 + 0i  ], [ 0i + 1 ], 
+[ 0i + 1 ], [ 3 + 0i  ], 
+
+
+
+#23 : 
+Ok X Matrix is: 
+[ 2i + 2 ], [ 2 + 2i  ], 
+[ 2 + 2i  ], [ 2i + 2 ], 
+
+
+Ok Y Matrix is: 
+[ 3 + 0i  ], [ 4 + 0i  ], 
+[ 4 + 0i  ], [ 3 + 0i  ], 
+
+
+
+#24 : 
+Ok X Matrix is: 
+[ 2i + 2 ], [ 2 + 2i  ], 
+[ 2 + 2i  ], [ 2i + 2 ], 
+
+
+Ok Y Matrix is: 
+[ 3 + 0i  ], [ 0i + 4 ], 
+[ 0i + 4 ], [ 3 + 0i  ], 
+
+
+
+#25 : 
+Ok X Matrix is: 
+[ 2i + 2 ], [ 2 + 2i  ], 
+[ 2 + 2i  ], [ 2i + 2 ], 
+
+
+Ok Y Matrix is: 
+[ 0i + 3 ], [ 0 + 0i  ], 
+[ 0 + 0i  ], [ 0i + 3 ], 
+
+
+
+#26 : 
+Ok X Matrix is: 
+[ 2i + 2 ], [ 2 + 2i  ], 
+[ 2 + 2i  ], [ 2i + 2 ], 
+
+
+Ok Y Matrix is: 
+[ 0i + 3 ], [ 1 + 0i  ], 
+[ 1 + 0i  ], [ 0i + 3 ], 
+
+
+
+#27 : 
+Ok X Matrix is: 
+[ 2i + 2 ], [ 2 + 2i  ], 
+[ 2 + 2i  ], [ 2i + 2 ], 
+
+
+Ok Y Matrix is: 
+[ 0i + 3 ], [ 0i + 1 ], 
+[ 0i + 1 ], [ 0i + 3 ], 
+
+
+
+#28 : 
+Ok X Matrix is: 
+[ 2i + 2 ], [ 2 + 2i  ], 
+[ 2 + 2i  ], [ 2i + 2 ], 
+
+
+Ok Y Matrix is: 
+[ 0i + 3 ], [ 4 + 0i  ], 
+[ 4 + 0i  ], [ 0i + 3 ], 
+
+
+
+#29 : 
+Ok X Matrix is: 
+[ 2i + 2 ], [ 2 + 2i  ], 
+[ 2 + 2i  ], [ 2i + 2 ], 
+
+
+Ok Y Matrix is: 
+[ 0i + 3 ], [ 0i + 4 ], 
+[ 0i + 4 ], [ 0i + 3 ], 
+
+
+
+#30 : 
+Ok X Matrix is: 
+[ 4 + 4i  ], [ 1i + 1 ], 
+[ 1i + 1 ], [ 4 + 4i  ], 
+
+
+Ok Y Matrix is: 
+[ 0 + 3i  ], [ 0 + 2i  ], 
+[ 0 + 2i  ], [ 0 + 3i  ], 
+
+
+
+#31 : 
+Ok X Matrix is: 
+[ 4 + 4i  ], [ 4i + 4 ], 
+[ 4i + 4 ], [ 4 + 4i  ], 
+
+
+Ok Y Matrix is: 
+[ 0 + 3i  ], [ 0 + 2i  ], 
+[ 0 + 2i  ], [ 0 + 3i  ], 
+
+
+
+#32 : 
+Ok X Matrix is: 
+[ 4i + 4 ], [ 1 + 1i  ], 
+[ 1 + 1i  ], [ 4i + 4 ], 
+
+
+Ok Y Matrix is: 
+[ 3 + 0i  ], [ 2 + 0i  ], 
+[ 2 + 0i  ], [ 3 + 0i  ], 
+
+
+
+#33 : 
+Ok X Matrix is: 
+[ 4i + 4 ], [ 1 + 1i  ], 
+[ 1 + 1i  ], [ 4i + 4 ], 
+
+
+Ok Y Matrix is: 
+[ 3 + 0i  ], [ 0i + 2 ], 
+[ 0i + 2 ], [ 3 + 0i  ], 
+
+
+
+#34 : 
+Ok X Matrix is: 
+[ 4i + 4 ], [ 4 + 4i  ], 
+[ 4 + 4i  ], [ 4i + 4 ], 
+
+
+Ok Y Matrix is: 
+[ 3 + 0i  ], [ 2 + 0i  ], 
+[ 2 + 0i  ], [ 3 + 0i  ], 
+
+
+
+#35 : 
+Ok X Matrix is: 
+[ 4i + 4 ], [ 4 + 4i  ], 
+[ 4 + 4i  ], [ 4i + 4 ], 
+
+
+Ok Y Matrix is: 
+[ 3 + 0i  ], [ 0i + 2 ], 
+[ 0i + 2 ], [ 3 + 0i  ], 
+
+
+
+#36 : 
+Ok X Matrix is: 
+[ 4i + 4 ], [ 1 + 1i  ], 
+[ 1 + 1i  ], [ 4i + 4 ], 
+
+
+Ok Y Matrix is: 
+[ 0i + 3 ], [ 2 + 0i  ], 
+[ 2 + 0i  ], [ 0i + 3 ], 
+
+
+
+#37 : 
+Ok X Matrix is: 
+[ 4i + 4 ], [ 1 + 1i  ], 
+[ 1 + 1i  ], [ 4i + 4 ], 
+
+
+Ok Y Matrix is: 
+[ 0i + 3 ], [ 0i + 2 ], 
+[ 0i + 2 ], [ 0i + 3 ], 
+
+
+
+#38 : 
+Ok X Matrix is: 
+[ 4i + 4 ], [ 4 + 4i  ], 
+[ 4 + 4i  ], [ 4i + 4 ], 
+
+
+Ok Y Matrix is: 
+[ 0i + 3 ], [ 2 + 0i  ], 
+[ 2 + 0i  ], [ 0i + 3 ], 
+
+
+
+#39 : 
+Ok X Matrix is: 
+[ 4i + 4 ], [ 4 + 4i  ], 
+[ 4 + 4i  ], [ 4i + 4 ], 
+
+
+Ok Y Matrix is: 
+[ 0i + 3 ], [ 0i + 2 ], 
+[ 0i + 2 ], [ 0i + 3 ], 
+
+
+

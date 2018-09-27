@@ -1,0 +1,2 @@
+total,successes,n_dimens,x_limit,y_limit,lambda_det,miu_det
+3045025,13,2,4,4,0,0
