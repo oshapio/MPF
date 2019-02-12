@@ -1,0 +1,55 @@
+﻿  algos.cpp
+c:\users\a\documents\projects\mpf\algos\algos.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'll', possible loss of data
+c:\users\a\documents\projects\mpf\algos\algos.cpp(25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\a\documents\projects\mpf\algos\algos.cpp(91): warning C4244: '=': conversion from '_Ty1' to 't', possible loss of data
+          with
+          [
+              _Ty1=double
+          ]
+c:\users\a\documents\projects\mpf\algos\algos.cpp(91): warning C4244: '=': conversion from '_Ty2' to 't', possible loss of data
+          with
+          [
+              _Ty2=double
+          ]
+c:\users\a\documents\projects\mpf\algos\algos.cpp(95): warning C4244: '=': conversion from '_Ty1' to 't', possible loss of data
+          with
+          [
+              _Ty1=double
+          ]
+c:\users\a\documents\projects\mpf\algos\algos.cpp(95): warning C4244: '=': conversion from '_Ty2' to 't', possible loss of data
+          with
+          [
+              _Ty2=double
+          ]
+c:\users\a\documents\projects\mpf\algos\algos.cpp(101): warning C4244: '=': conversion from '_Ty1' to 't', possible loss of data
+          with
+          [
+              _Ty1=double
+          ]
+c:\users\a\documents\projects\mpf\algos\algos.cpp(101): warning C4244: '=': conversion from '_Ty2' to 't', possible loss of data
+          with
+          [
+              _Ty2=double
+          ]
+c:\users\a\documents\projects\mpf\algos\algos.cpp(110): warning C4244: '=': conversion from '_Ty1' to 't', possible loss of data
+          with
+          [
+              _Ty1=double
+          ]
+c:\users\a\documents\projects\mpf\algos\algos.cpp(110): warning C4244: '=': conversion from '_Ty2' to 't', possible loss of data
+          with
+          [
+              _Ty2=double
+          ]
+c:\users\a\documents\projects\mpf\algos\algos.cpp(136): warning C4244: '=': conversion from '_Ty1' to 't', possible loss of data
+          with
+          [
+              _Ty1=double
+          ]
+c:\users\a\documents\projects\mpf\algos\algos.cpp(136): warning C4244: '=': conversion from '_Ty2' to 't', possible loss of data
+          with
+          [
+              _Ty2=double
+          ]
+c:\users\a\documents\projects\mpf\algos\algos.cpp(1076): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  algos.vcxproj -> C:\Users\a\Documents\projects\MPF\x64\Debug\algos.exe
