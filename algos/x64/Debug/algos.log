@@ -51,5 +51,5 @@ c:\users\a\documents\projects\mpf\algos\algos.cpp(136): warning C4244: '=': conv
           [
               _Ty2=double
           ]
-c:\users\a\documents\projects\mpf\algos\algos.cpp(1076): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\a\documents\projects\mpf\algos\algos.cpp(1074): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
   algos.vcxproj -> C:\Users\a\Documents\projects\MPF\x64\Debug\algos.exe
